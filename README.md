@@ -3,7 +3,7 @@ A simple 42-swatch colour palette for UI design
 
 Basic:
 ------
-Black:   #212121  ![basic_black](/images/basic_black.png)
+Black:   #212121  ![basic_black](/images/Basic_black.png)
 Dark:    #2A2C2B
 Mid1:    #757575
 Mid2:    #8C8C8C
