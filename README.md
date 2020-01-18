@@ -1,5 +1,5 @@
 # colours
-A simple 42-swatch colour palette for UI design
+A simple 42-swatch colour palette for clean and consistent UI design
 
 `Basic:`  
 `Black:   #212121`  ![basic_black](/images/Basic_black.png)  
