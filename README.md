@@ -3,12 +3,12 @@ A simple 42-swatch colour palette for UI design
 
 Basic:
 ------
-'Black:   #212121'  ![basic_black](/images/Basic_black.png)
-'Dark:    #2A2C2B'  ![basic_dark](/images/Basic_dark.png)
-'Mid1:    #757575'  ![basic_mid1](/images/Basic_mid1.png)
-'Mid2:    #8C8C8C'  ![basic_mid2](/images/Basic_mid2.png)
-'Light:   #BDC3C7'  ![basic_light](/images/Basic_light.png)
-'White:   #D9D9D9'  ![basic_white](/images/Basic_white.png)
+`Black:   #212121`  ![basic_black](/images/Basic_black.png)
+`Dark:    #2A2C2B`  ![basic_dark](/images/Basic_dark.png)
+`Mid1:    #757575`  ![basic_mid1](/images/Basic_mid1.png)
+`Mid2:    #8C8C8C`  ![basic_mid2](/images/Basic_mid2.png)
+`Light:   #BDC3C7`  ![basic_light](/images/Basic_light.png)
+`White:   #D9D9D9`  ![basic_white](/images/Basic_white.png)
 
 Blue:
 ------
