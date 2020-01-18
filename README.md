@@ -1,8 +1,7 @@
 # colours
 A simple 42-swatch colour palette for UI design
 
-Basic:
-------
+`Basic:`
 `Black:   #212121`  ![basic_black](/images/Basic_black.png)  
 `Dark:    #2A2C2B`  ![basic_dark](/images/Basic_dark.png)  
 `Mid1:    #757575`  ![basic_mid1](/images/Basic_mid1.png)  
@@ -10,8 +9,7 @@ Basic:
 `Light:   #BDC3C7`  ![basic_light](/images/Basic_light.png)  
 `White:   #D9D9D9`  ![basic_white](/images/Basic_white.png)  
 
-Blue:
-------
+`Blue:`
 `Night:   #012840`  ![blue_night](/images/blue_night.png)  
 `Noon:    #50bbfc`  ![blue_noon](/images/blue_noon.png)  
 `Dusk:    #35478C`  ![blue_dusk](/images/blue_dusk.png)  
@@ -19,8 +17,7 @@ Blue:
 `Haze:    #7FB2F0`  ![blue_haze](/images/blue_haze.png)  
 `Deep:    #133463`  ![blue_deep](/images/blue_deep.png)  
 
-Green:
-------
+`Green:`
 `Potion:  #45BF55`  ![green_potion](/images/green_potion.png)  
 `Dilute:  #B1FF91`  ![green_dilute](/images/green_dilute.png)  
 `Sandy:   #BDD684`  ![green_sandy](/images/green_sandy.png)  
@@ -28,8 +25,7 @@ Green:
 `Pastel:  #67CC8E`  ![green_pastel](/images/green_pastel.png)  
 `Weak:    #79BD8F`  ![green_weak](/images/green_weak.png)  
 
-Orange:
-------
+`Orange:`
 `Carrot:  #FF5722`  ![orange_carrot](/images/orange_carrot.png)  
 `Hazard:  #FA9600`  ![orange_hazard](/images/orange_hazard.png)  
 `Weak:    #F57336`  ![orange_weak](/images/orange_weak.png)  
@@ -37,8 +33,7 @@ Orange:
 `Sand:    #FF822E`  ![orange_sand](/images/orange_sand.png)  
 `Autumn:  #D23600`  ![orange_autumn](/images/orange_autumn.png)  
 
-Purple:
-------
+`Purple:`
 `Weak:    #8B63A6`  ![purple_weak](/images/purple_weak.png)  
 `Witch:   #36175E`  ![purple_witch](/images/purple_witch.png)  
 `Cute:    #AB47BC`  ![purple_cute](/images/purple_cute.png)  
@@ -46,8 +41,7 @@ Purple:
 `Pastel:  #9768D1`  ![purple_pastel](/images/purple_pastel.png)  
 `Dull:    #9250BC`  ![purple_dull](/images/purple_dull.png)  
 
-Red:
-------
+`Red:`
 `Salmon:  #ef5350`  ![red_salmon](/images/red_salmon.png)  
 `Vivid:   #D40D12`  ![red_vivid](/images/red_vivid.png)  
 `Dry:     #4C1B1B`  ![red_dry](/images/red_dry.png)  
@@ -55,8 +49,7 @@ Red:
 `Rose:    #B9121B`  ![red_rose](/images/red_rose.png)  
 `Glow:    #E74C3C`  ![red_glow](/images/red_glow.png)  
 
-Yellow:
-------
+`Yellow:`
 `Banana:  #F0C755`  ![yellow_banana](/images/yellow_banana.png)  
 `Lemon:   #FFEE58`  ![yellow_lemon](/images/yellow_lemon.png)  
 `Vivid:   #FFD600`  ![yellow_vivid](/images/yellow_vivid.png)  
