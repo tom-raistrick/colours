@@ -2,12 +2,12 @@
 A simple 42-swatch colour palette for clean and consistent UI design
 
 `Basic:`  
-#212121`  ![basic_black](/images/Basic_black.png)  
-#2A2C2B`  ![basic_dark](/images/Basic_dark.png)  
-#757575`  ![basic_mid1](/images/Basic_mid1.png)  
-#8C8C8C`  ![basic_mid2](/images/Basic_mid2.png)  
-#BDC3C7`  ![basic_light](/images/Basic_light.png)  
-#D9D9D9`  ![basic_white](/images/Basic_white.png)  
+`#212121`  ![basic_black](/images/Basic_black.png)  
+`#2A2C2B`  ![basic_dark](/images/Basic_dark.png)  
+`#757575`  ![basic_mid1](/images/Basic_mid1.png)  
+`#8C8C8C`  ![basic_mid2](/images/Basic_mid2.png)  
+`#BDC3C7`  ![basic_light](/images/Basic_light.png)  
+`#D9D9D9`  ![basic_white](/images/Basic_white.png)  
 
 `Blue:`  
 #012840`  ![blue_night](/images/blue_night.png)  
